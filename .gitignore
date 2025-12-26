@@ -1,0 +1,26 @@
+# Data files
+data/*.csv
+data/*.xlsx
+!data/dataset_info.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix
+*.pbip
+
+# Environment
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
