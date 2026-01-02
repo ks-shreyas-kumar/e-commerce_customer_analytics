@@ -23,6 +23,11 @@ End-to-end analytics pipeline analyzing 100K+ customer transactions from Brazili
 
 ## Project Structure
 
+## Code Organization
+- **SQL Queries**: See [`sql/key_queries.sql`](sql/key_queries.sql) for all business logic
+- **Analysis Notebooks**: Step-by-step exploration in Jupyter
+- **Scripts**: Reusable Python utilities
+
 
 ## Next Steps
 - Complete RFM customer segmentation
