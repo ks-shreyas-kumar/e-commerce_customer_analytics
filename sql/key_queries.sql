@@ -1,6 +1,4 @@
--- ============================================
 -- BRAZILIAN E-COMMERCE ANALYSIS QUERIES
--- ============================================
 
 -- QUERY 1: Top States by Revenue
 SELECT 
